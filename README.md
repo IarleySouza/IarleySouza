@@ -6,8 +6,10 @@
 </p>
 
 <br> <br>
-<img src="image/octocat-1723957010045.png" alt="">
-</img>
+<p align="center">
+    <img src="image/octocat-1723957010045.png" alt="" width="300px">
+    </img>
+</p>
 
 <h1 align="center">
 🖥️Tecnologias
