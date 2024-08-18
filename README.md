@@ -5,7 +5,6 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat!&font=Verdana&duration=2000&pause=100&color=11B4F7&center=true&width=280&height=40" alt="Typing SVG" />
 </p>
 
-<br> <br>
 <p align="center">
     <img src="image/octocat-1723957010045.png" alt="" width="300px">
     </img>
@@ -29,7 +28,7 @@ Apaixonado por tecnologia, educação e por apender, sigo me aperfeiçoando a ca
 <br>
 <br>
 
-<h1 align="center">         
+<h1 align="center">
 📞Contato
 </h1>
 
@@ -40,7 +39,7 @@ Apaixonado por tecnologia, educação e por apender, sigo me aperfeiçoando a ca
 <a href = "maito:iarleysouza615@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <br>
 <br>
-<h1 align="center">         
+<h1 align="center">
 📊Status
 </h1>
 
