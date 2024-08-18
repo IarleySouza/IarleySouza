@@ -14,7 +14,7 @@
 🖥️Tecnologias
 </h1>
 
-<div style= "display: inline_block"><br/>
+<div align="center" style= "display: inline_block"><br/>
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="40" width="40" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="40" width="40" />
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" width="40" />
@@ -23,7 +23,7 @@
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" />
 
 </div><br/>
-Apaixonado por tecnologia, educação e por apender, sigo me aperfeiçoando a cada dia, assim como a tecnologia.
+<p align="center"><i>Apaixonado por tecnologia, educação e por apender, sigo me aperfeiçoando a cada dia, assim como a tecnologia.</i></p>
 
 <br>
 <br>
@@ -34,9 +34,13 @@ Apaixonado por tecnologia, educação e por apender, sigo me aperfeiçoando a ca
 
 <br>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iarley-souza/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/souza_iarlle/)
-<a href = "maito:iarleysouza615@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<p align="center">
+    <a href="https://www.linkedin.com/in/iarley-souza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></img></a>
+    <a href = "maito:iarleysouza615@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://wa.me/5511981459132?text=Ol%C3%A1,%20Iarley!%20Tudo%20bem?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt=""></img></a>
+</p>
+
+
 <br>
 <br>
 <h1 align="center">
@@ -50,6 +54,8 @@ Apaixonado por tecnologia, educação e por apender, sigo me aperfeiçoando a ca
 </a>
 <br> <br>
 
-![Iarley GitHub stats](https://github-readme-stats.vercel.app/api?username=IarleySouza&show_icons=true&theme=tokyonight)
+<div align="center" >
+    <a href="https://github.com/IarleySouza"><img src="https://github-readme-stats.vercel.app/api?username=IarleySouza&show_icons=true&theme=tokyonight" alt=""></img></a>
+</div>
 
 
