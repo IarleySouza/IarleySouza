@@ -1,5 +1,5 @@
 
-<h1 align="center">IarleyDev👨🏻‍💻</h1>
+<h1 align="center">Iarley | Dev👨🏻‍💻</h1>
 
 <p align="center">
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Eat;Code;Sleep;Repeat!&font=Verdana&duration=2000&pause=100&color=11B4F7&center=true&width=280&height=40" alt="Typing SVG" />
