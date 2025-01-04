@@ -10,19 +10,20 @@
     </img>
 </p>
 
+## Sobre Mim
+👨‍🎓 Sou estudante de Ciência da Computação na Impacta.
+
+🚀 Tenho experiência em tecnologias fundamentais tanto no desenvolvimento front-end quanto no back-end.
+
 <h1 align="center">
 🖥️Tecnologias
 </h1>
 
-<div align="center" style= "display: inline_block"><br/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" height="40" width="40" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" height="40" width="40" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" height="40" width="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="80" height="80" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" height="40" width="40" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="40" width="40" />
-
-</div><br/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,mysql,postgres,nodejs,react,ts,py,java" />
+  </a>
+</p>
 <p align="center"><i>Apaixonado por tecnologia, educação e por apender, sigo me aperfeiçoando a cada dia, assim como a tecnologia.</i></p>
 
 <br>
