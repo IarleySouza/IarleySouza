@@ -5,8 +5,8 @@
 </p>
 
 
-👨‍💻 Software Engineer at **Itaú Unibanco**  
-👨‍🎓 Estudante de Ciência da Computação na **Faculdade Impacta**
+👨‍💻 Software Engineer at [**Itaú Unibanco**](https://www.itau.com.br)<br>
+👨‍🎓 Estudante de Ciência da Computação na [**Faculdade Impacta**](https://www.impacta.edu.br)
 
 🚀 Tenho experiência em tecnologias fundamentais tanto no desenvolvimento **front-end** quanto no **back-end**.
 
