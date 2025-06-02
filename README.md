@@ -6,9 +6,9 @@
 
 
 👨‍💻 Software Engineer at [**Itaú Unibanco**](https://www.itau.com.br)<br>
-👨‍🎓 Estudante de Ciência da Computação na [**Faculdade Impacta**](https://www.impacta.edu.br)
+👨‍🎓 Computer Science Student at [**Faculdade Impacta**](https://www.impacta.edu.br)
 
-🚀 Tenho experiência em tecnologias fundamentais tanto no desenvolvimento **front-end** quanto no **back-end**.
+🚀 Experienced in fundamental **front-end** and **back-end** development technologies.
 
 <hr>
 
@@ -16,4 +16,4 @@
 
 ---
 
-_Apaixonado por tecnologia, educação e por aprender, sigo me aperfeiçoando a cada dia — assim como a tecnologia._
+_Passionate about technology, education, and learning, I strive to improve every day — just like technology itself._
