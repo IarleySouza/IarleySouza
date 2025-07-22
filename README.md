@@ -12,7 +12,7 @@
 
 <hr>
 
-![Skills](https://skillicons.dev/icons?i=js,git,mysql,postgres,nodejs,react,py,java,aws,spring)
+![Skills](https://skillicons.dev/icons?i=js,git,mysql,postgres,nodejs,react,py,java,aws,spring,docker,terraform)
 
 ---
 
